@@ -5,7 +5,9 @@ This project is a text editor web application that offers reliable functionality
 
 By designing a text editor that functions offline, users can reliably access and create notes or code snippets regardless of their internet connection status. The project organizes content in a client-server folder structure, making it easier to manage and maintain the application's components. The use of Webpack to bundle JavaScript files ensures efficient asset management and generation of HTML files, service workers, and manifest files.
 
-## Web Application URL
+## Heroku URL
+
+[PWA Text Editor](https://pwa-text-editor-f62359adbc99.herokuapp.com/)
 
 ## Installation
 
@@ -16,6 +18,8 @@ Run npm run build and npm run dev to open the program.
 ## Usage
 
 The following image shows the web application's appearance and functionality:
+
+![This is an example of how the PWA text editor should look like.](./client/src/images/pwa.png)
 
 ## Credits
 
